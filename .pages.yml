@@ -5,7 +5,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    filename: '{year}-{month}-{day}-{title}.markdown'
+    filename: '{year}-{month}-{day}-{primary}.markdown'
     path: _posts
     fields:
      - name: layout
