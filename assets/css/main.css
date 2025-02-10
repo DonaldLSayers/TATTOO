@@ -4009,7 +4009,8 @@ cite {
 }
 
 .chapters .chapter img {
-  height: 400px;
+  height: 350px;
+  width: 100%;
   vertical-align: middle;
 }
 
