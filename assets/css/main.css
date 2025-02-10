@@ -4002,10 +4002,6 @@ cite {
   width: 32.333%;
   margin: 0 0.5% 1% 0.5%;
   overflow: hidden;
-  -webkit-transition: -webkit-transform 0.4s;
-  transition: -webkit-transform 0.4s;
-  transition: transform 0.4s;
-  transition: transform 0.4s, -webkit-transform 0.4s;
 }
 
 .chapters .chapter a {
@@ -4020,9 +4016,6 @@ cite {
 }
 
 .chapters .chapter img:hover {
-  -webkit-transform: scale(1.5);
-      -ms-transform: scale(1.5);
-          transform: scale(1.5);
 }
 
 .chapters .chapter_inner {
