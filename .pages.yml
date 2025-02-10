@@ -1,7 +1,6 @@
 media:
   input: assets/img
-  output: ""
-  path: assets/img
+  output: assets/img
 content:
   - name: posts
     label: Posts
