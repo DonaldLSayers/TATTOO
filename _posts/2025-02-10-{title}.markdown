@@ -1,0 +1,8 @@
+---
+layout: post
+title: test Post
+img: /assets/img/Replimat Shop Shirts.png
+date: 2025-02-10 10:44
+description: test 1
+---
+cool post dude
