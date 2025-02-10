@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TEST POST 2025
-img: /40784133_1939001529480123_4093256562125045760_n.jpg
+img: /img/40784133_1939001529480123_4093256562125045760_n.jpg
 date: 2025-02-10 12:46
 description: cool test
 tag: cool wow test
