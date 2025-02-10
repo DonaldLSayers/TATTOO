@@ -1,6 +1,6 @@
 media: 
-  input: assets/img
-  output: ""
+  input: ""
+  output: assets/img
 content:
   - name: posts
     label: Posts
